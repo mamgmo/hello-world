@@ -5,3 +5,5 @@ I like do anythink do work and like do anythink my self. Thanks all for help and
 
 Thanks,
 Wat
+
+Look ever your changes in the diffs on the compare page, make sure they're what you want to submit.
